@@ -1,0 +1,5 @@
+volumesOdoo/
+dataPostgreSQL/
+__pycache__/
+*.log
+*.pyc
