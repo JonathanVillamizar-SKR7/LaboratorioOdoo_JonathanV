@@ -3,3 +3,17 @@ dataPostgreSQL/
 __pycache__/
 *.log
 *.pyc
+
+# --- NO subir base de datos PostgreSQL ---
+volumesOdoo/dataPostgreSQL/
+
+# --- NO subir runtime de Odoo ---
+volumesOdoo/odoo/filestore/
+volumesOdoo/odoo/sessions/
+
+# --- basura ---
+*.log
+**/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
